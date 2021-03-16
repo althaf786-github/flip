@@ -38,30 +38,6 @@ class Home extends Component {
         {
             title: 'Best of Appliances'
         },
-        {
-            title: 'Trending Offers'
-        },
-        {
-            title: 'Auto Accessories'
-        },
-        {
-            title: 'Home Makeover'
-        },
-        {
-            title: 'Top Deals On Fashion'
-        },
-        {
-            title: 'Furniture Bestsellers'
-        },
-        {
-            title: 'Best Battery Phones'
-        },
-        {
-            title: 'Best of Electronics'
-        },
-        {
-            title: 'Women\'s Fashion'
-        },
     ]
   };
 
